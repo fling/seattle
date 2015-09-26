@@ -68,8 +68,6 @@ My favorite thing to do is EMP museum. It is mostly Paul Allen’s private colle
 
 This is Seattle’s newest “neighborhood” and by neighborhood I mean Paul Allen’s real estate experiment that is 80% Amazon. Seattleites mostly complain about it, but there are some finds here.
 
-Fourth of July Weekend, this entire area will be packed to watch the fireworks over South Lake Union. If you can get down there is pretty amazing thing to see. The lake will be *filled* with boats.
-
 - South Lake Union Park is one of the best in the city.
 - MOHAI is fantastic
 - Boats are a big part of Seattle. And I recommend going to the The Wooden Boat Center. Its free and you get to go on board a lot of different types of boats. On Sundays they do a free sail around Lake Union. You need to get there early to sign up on nice days.
