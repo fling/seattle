@@ -1,8 +1,8 @@
 # @fling's Guide to Seattle
 
-I wrote this guide for friends visiting Seattle. 
+I wrote this guide for friends visiting Seattle. Seattle has a lot to offer, but this obviously isn't everything. It assumes you are like me and a.) hate dealing with renting cars when you are visiting a city and b.) are too embarassed to be seen with a guidebook. With that in mind I tried to keep it organized by neighborhoods and/or things you can do in a day.
 
-## Getting Around
+# Getting Around
 
 Our [public transport system](http://www.seattle.gov/living-in-seattle/transportation/transit) isn’t great and doesn’t get you all the way to where you want to go at times (blame all the bodies of water). But we have [Car2Go’s](https://www.car2go.com/en/seattle/) everywhere which is a great way to get around. You can find and unlock them from your phone and you can park for free anywhere in Seattle. I might recommend signing up for an account if you don’t already have one.
 
@@ -10,7 +10,7 @@ We also have a new [public bike system](https://www.prontocycleshare.com), like 
 
 There are a couple of areas that I would focus on to get the most out of your time here:
 
-## Pioneer Square
+# Pioneer Square
 
 This is old Seattle. It is actually a historic district, but it can be a ghost town at times. It can have a bar scene on some nights, filled sports fans on game days, but is also Seattle’s new foodie haven.
 
@@ -26,7 +26,7 @@ This is old Seattle. It is actually a historic district, but it can be a ghost t
 
 I recommend before exploring Pioneer Square, that you go to MOHAI on South Lake Union. It is a newer museum about Seattle that is pretty awesome. You will learn a lot about Pioneer Square there.
 
-## [The Pike Place Market](http://www.pikeplacemarket.org)
+# [The Pike Place Market](http://www.pikeplacemarket.org)
 
 This is a must for anyone visiting Seattle. It is packed with tourists, but it is the best place in Seattle to purchase fresh fish, produce etc. I try and shop there at least once a month. This market is a hub for some of the best seafood in the world. And a great place to get smoked salmon to take home if that is your thing.
 
@@ -46,7 +46,7 @@ At night, the Market is pretty quiet. There is the [Can-Can Cabert](http://www.t
 
 The market is 10-15m walk from Pioneer Square (uphill) and the Downtown Retail Core.
 
-## Downtown
+# Downtown
 
 There are a ton of great places downtown. It is a bit of a walk from Pioneer Square, but you can hop in the Bus Tunnel and ride the Light Rail from the Smith Tower to any stop in the heart of downtown. I think it may be free. I never pay if I’m just going a few stops. If you get stopped just tell them you were confused.
 
@@ -54,7 +54,7 @@ There is actually a lot of hidden away gems Downtown, but they tend to be pretty
 
 Seattle isn't really known internationally for our architecture, but we have some pretty amazing buildings. For example the IBM Building and Rainer Tower on 5th & University were both designed by Minoru Yamasaki the architect of the World Trade Center buildings. You can see many similarities in style and structure. Here is a nice [free walking guide](http://www.seattletimes.com/entertainment/a-walking-tour-of-seattle-architecture/) if you are interested in just walking around downtown Seattle.
 
-## Seattle Center
+# Seattle Center
 
 [Seattle Center](http://www.seattlecenter.com) is the complex that includes the [Space Needle](http://www.spaceneedle.com), [Pacific Science Center](https://www.pacificsciencecenter.org), [EMP](http://www.empmuseum.org) etc. It is the old World’s Fair complex and a lot of it is pretty old and dingy. But it holds a special place in every Seattleite’s heart as they almost always have a fond memory from here.
 
@@ -65,7 +65,7 @@ Seattle isn't really known internationally for our architecture, but we have som
 
 There is a [Monorail](http://www.seattlemonorail.com) that connects Seattle Center to Downtown's Retail Core (it even goes through the EMP). It is very short ride and offers nice elevated views of Belltown and South Lake Union.
 
-## South Lake Union
+# South Lake Union
 
 This is Seattle’s newest “neighborhood” and by neighborhood I mean Paul Allen’s real estate experiment that is 80% Amazon. Seattleites mostly complain about it, but there are some good finds here and worth a visit.
 
@@ -79,7 +79,7 @@ This is Seattle’s newest “neighborhood” and by neighborhood I mean Paul Al
 
 Also, if you are into movies, Paul Allen spared no expense renovating the [Cinerama](https://www.cinerama.com) theater which is a short walk from South Lake Union. They serve good beer and local food and it is one of the most advanced cinema’s in the world. They have reserved seating, so you can book in advance if you want to see a blockbuster.
 
-## Capitol Hill
+# Capitol Hill
 
 [Capitol Hill](http://www.visitseattle.org/neighborhoods/capitol-hill/), is the cultural heart of Seattle. It is where the LGBT and creative crowd is mostly based. This is also where the best restaurants in Seattle are. You can use OpenTable or Urban Spoon to find recommendations and reservations. You can pack in a lot of great sights, sounds, food and indie shopping.  
 
@@ -92,7 +92,7 @@ However Capitol Hill is going through [a bit of a transition](http://www.thestra
 * [Volunteer Park](http://www.seattle.gov/parks/park_detail.asp?id=399)
 * [Bruce Lee’s grave](http://www.tripadvisor.com/Attraction_Review-g60878-d615595-Reviews-Bruce_Lee_Grave_Site-Seattle_Washington.html)
 
-## Ballard & Fremont
+# Ballard & Fremont
 
 Ballard is our cool Swedish neighborhood with a long tradition of fishing. It is about a 10-15 drive to get there from Downtown. But once you are there it is pretty sweet. I recommend going on Saturday when the [Farmers Market](http://www.sfmamarkets.com) is in full swing. Check the schedule before you venture out there though.
 
@@ -109,9 +109,9 @@ Fremont is very near Ballard and was once our Hippie neighborhood, but is now wh
 * [Golden Garden’s](http://www.seattle.gov/parks/park_detail.asp?ID=243) if you want to spend some time on the beach. Also fun for an evening beach campfire.
 * [Ivar’s Salmon House](http://www.ivars.com/locations/salmon-house) has an all-you-can-eat buffet brunch on Sundays that is pretty awesome. It has a great view of Seattle and you will probably see [Dale Chihuly](http://www.chihuly.com) there who’s studio is right next door and is pretty much there every Sunday.
 
-## Out of Seattle
+# Out of Seattle
 
-### The Floating Bridge Loop
+## The Floating Bridge Loop
 
 If you have a car or a Car2Go, I would recommend trying to get out of the city. I like to take people over the floating bridges. There [aren’t that many of them in the world](http://www.seattlepi.com/local/transportation/article/Floating-bridges-of-the-world-2971885.php) and we have two with the city. 
 
@@ -120,7 +120,7 @@ If you have a car or a Car2Go, I would recommend trying to get out of the city. 
 * Bellevue itself is a very wealthy surburbia. People that live in Seattle usually dislike “Eastsiders” and I’m sure vice versa.
 * But you can go in a loop over 520, through Bellevue and back over I-90 which will dump you right in Pioneer Square.
 
-### Planes & Aerospace
+## Planes & Aerospace
 
 Airplanes are about as "Seattle" as coffee and computers. Aerospace has long been a big part of our history and culture, and Boeing is still largest employeer in the Seattle area. I believe it is the unique mix of Asperger-y aeronatical engineers and blue-collar factory workers that originally created Seattle's unique and sometimes offputting vibe. Today our introverted culture is commonly referred to as the "[Seattle Freeze](https://en.wikipedia.org/wiki/Seattle_Freeze)" which locals like to refute, but just ask any newcomers.
 
@@ -128,7 +128,7 @@ Airplanes are about as "Seattle" as coffee and computers. Aerospace has long bee
 * [The Heritage Flight Museum](http://www.heritageflight.org) is about 30-45 mins to the North, near Everett and Boeing’s Factories. Paul Allen has his own collection of planes. It is much smaller than Museum of Flight, but these planes actually fly most weekends. They also have one of the only Mitsubishi Zero fighters left intact. Typically if you buy a pass to EMP you can get into this museum for free.
 * And while you are up North, you might as well go to Boeing [Future of Flight](http://www.futureofflight.org) museum and factory tour too. 
 
-### Day Trips & Adventures
+## Day Trips & Adventures
 
 * [Bainbridge Island](https://www.bainbridgeisland.com) – Water is a big part of Seattle and we have a very [big ferry system](http://www.wsdot.wa.gov/ferries/) that takes you to the islands in the Puget Sound. When I lived in Pioneer Square one of my favorite things to do on a summer night is walk on the [Bainbridge Ferry](http://www.wsdot.wa.gov/ferries/Schedule/ScheduleDetail.aspx?departingterm=7&arrivingterm=3&roundtrip=true) and ride it over and then ride it back. It is about 45mins each way and is pretty cheap. Just sit on the deck and see Seattle the way it should be seen – from the water! You can also get off the ferry and walk to the shops and restaurants on Bainbridge. It is super quaint and a bit sleepy. A stark contrast from Seattle. And lot of folks live on Bainbridge and commute over every day.
 * [Portland by Train](http://www.amtrak.com/northwest-train-routes) – my hometown and I believe the spiritual heart of Northwest culture. It is about 3 1/2 hours South of Seattle. You can take a lovely Amtrak train ride from Pioneer Square to Portland's Pearl District. You can totally do it as a day trip or a one-night adventure from Seattle. There are lots of Car2Go's and bikes in Portland too, so you don't need a car to get around.
