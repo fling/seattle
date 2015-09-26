@@ -14,17 +14,15 @@ There are a couple of areas that I would focus on to get the most out of your ti
 
 This is old Seattle. It is actually a historic district, but it can be a ghost town at times. It can have a bar scene one night, filled sports fans on game days, but is also Seattle’s new foodie haven.
 
-http://www.pioneersquare.org/directory/attractions
-
-* The Underground Tour
-* The Klondike Museum
-* The Pergola, Totem Pole & The Original "Skid Row” on Yesler
-* Salumi’s (Mario Batali’s parents place)
-* Waterfall Garden (the site where UPS started)
-* Carmine’s Il Terrazzo (fine itallian food. A hidden away gem)
-* Bar Sajor (new foodie place. They do pizza’s on Tuesdays that aren’t on the menu)
-* The Smith Tower (this was the Smith Corona building and tallest building west of the Miss for a long time)
-* Sounders games (Soccer) are huge here. If there is a game when you are in town, I highly recommend trying to go if you can get tickets. Soccer is easily the popular sport of the Northwest.
+* [The Underground Tour](http://www.undergroundtour.com)
+* [The Klondike Museum](http://www.nps.gov/klse/index.htm)
+* [The Pergola, Totem Pole & The Original "Skid Row” on Yesler](http://www.pioneersquare.org/directory/attractions)
+* [Salumi’s](http://www.salumicuredmeats.com) Mario Batali’s parents place
+* [Waterfall Garden](http://www.yelp.com/biz/waterfall-garden-seattle) the site where UPS started
+* [Carmine’s Il Terrazzo](http://www.ilterrazzocarmine.com) fine itallian food. A hidden away gem
+* [Bar Sajor](http://www.barsajor.com) new foodie place. They do pizza’s on Tuesdays that aren’t on the menu
+* [The Smith Tower](http://smithtower.com/observe/observation-deck-info-calendar/) this was the Smith Corona building and tallest building west of the Miss for a long time
+* [Sounders games](http://www.soundersfc.com/schedule) (Soccer) are huge here. If there is a game when you are in town, I highly recommend trying to go if you can get tickets. Soccer is easily the popular sport of the Northwest.
 
 I recommend before exploring Pioneer Square, that you go to MOHAI on South Lake Union. It is a newer museum about Seattle that is pretty awesome. You will learn a lot about Pioneer Square there.
 
@@ -81,14 +79,14 @@ Also, if you are into movies, Paul Allen spared no expense renovating the Cinera
 
 Capitol Hill, is the cultural heart of Seattle. It is where the LGBT and creative crowd is mostly based. This is also where the best restaurants in Seattle are. You can use OpenTable or Urban Spoon to find recommendations and reservations. You can pack in a lot of great sights, sounds, food and indie shopping.  
 
-However Capitol Hill is going through a bit of a transition right now. It can appear a bit grungy and off putting to out of towners, but it is worth a visit. Most Friday & Stautrday nights on Pike & Pine turn into a Bro & Woo Girl scene, so I would explore other areas of Capitol Hill on those nights, like 12th or15th which is more mellow.
+However Capitol Hill is going through a bit of a transition right now. It can appear a bit grungy and off putting to out of towners, but it is worth a visit. Most Friday & Saturday nights on Pike & Pine turn into a Bro & Woo Girl scene, so I would explore other areas of Capitol Hill on those nights, like 12th or15th which is more mellow.
 
 * Just explore Pike & Pine East of I-5. Ton’s of cool shops and food
-* Starbucks’ new Willy Wonka of Coffee https://news.starbucks.com/news/starbucks-reserve-roastery-and-tasting-room
+* [Starbucks’ new Willy Wonka of Coffee](https://news.starbucks.com/news/starbucks-reserve-roastery-and-tasting-room)
 * Broadway (runs North-South) has a lot more.
 * Dick’s on Broadway is Seattle’s In-n-Out and worth a stop.
--*Volunteer Park
--*Bruce Lee’s grave: http://www.tripadvisor.com/Attraction_Review-g60878-d615595-Reviews-Bruce_Lee_Grave_Site-Seattle_Washington.html
+* Volunteer Park
+* [Bruce Lee’s grave](http://www.tripadvisor.com/Attraction_Review-g60878-d615595-Reviews-Bruce_Lee_Grave_Site-Seattle_Washington.html)
 
 # Ballard & Fremont
 
