@@ -4,7 +4,7 @@ I wrote this guide for friends visiting Seattle. Seattle has a lot to offer, but
 
 # Getting Around
 
-Our [public transport system](http://www.seattle.gov/living-in-seattle/transportation/transit) isn’t great and doesn’t get you all the way to where you want to go at times (blame all the bodies of water). But we have [Car2Go’s](https://www.car2go.com/en/seattle/) everywhere which is a great way to get around. You can find and unlock them from your phone and you can park for free anywhere in Seattle. I might recommend signing up for an account if you don’t already have one.
+Our [public transport system](http://www.seattle.gov/living-in-seattle/transportation/transit) isn’t great and doesn’t get you all the way to where you want to go at times (blame all the bodies of water). June 2016 Update: Seattle's Light Rail has been extended to include [these central neighborhoods](http://www.ulink2016.org/route-maps)it's a small but good start, and already a transportation game-changer. But we have [Car2Go’s](https://www.car2go.com/en/seattle/) everywhere which is a great way to get around. You can find and unlock them from your phone and you can park for free anywhere in Seattle. I might recommend signing up for an account if you don’t already have one.
 
 We also have a new [public bike system](https://www.prontocycleshare.com), like London, New York, etc. The problem is we also have a lot of hills. So plan accordingly. Most of the areas I’ve noted below are flat once you get there.
 
