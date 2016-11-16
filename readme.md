@@ -20,7 +20,6 @@ This is old Seattle. It is actually a historic district, but it can be a ghost t
 * [Salumi’s](http://www.salumicuredmeats.com) Mario Batali’s parents place
 * [Waterfall Garden](http://www.yelp.com/biz/waterfall-garden-seattle) the site where UPS started
 * [Carmine’s Il Terrazzo](http://www.ilterrazzocarmine.com) fine itallian food. A hidden away gem
-* [Bar Sajor](http://www.barsajor.com) new foodie place. They do pizza’s on Tuesdays that aren’t on the menu
 * [The Smith Tower](http://smithtower.com/observe/observation-deck-info-calendar/) this was the Smith Corona building and tallest building west of the Miss for a long time
 * [Sounders games](http://www.soundersfc.com/schedule) (Soccer) are huge here. If there is a game when you are in town, I highly recommend trying to go if you can get tickets. Soccer is easily the popular sport of the Northwest.
 
