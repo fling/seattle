@@ -87,12 +87,23 @@ If you are into movies, Paul Allen spared no expense renovating the [Cinerama](h
 
 [Capitol Hill](http://www.visitseattle.org/neighborhoods/capitol-hill/), is the cultural heart of Seattle. It is where the LGBT and creative crowd is mostly based. This is also where the best restaurants in Seattle are. You can use OpenTable or Urban Spoon to find recommendations and reservations. You can pack in a lot of great sights, sounds, food and indie shopping.  
 
-However Capitol Hill is going through [a bit of a transition](http://www.thestranger.com/features/feature/2015/02/27/21792732/the-woo-girls-street-artist-is-not-hiding-from-anyone) right now. It can appear a bit grungy and off putting to out of towners, but it is worth a visit. Most Friday & Saturday nights on [Pike & Pine](http://www.notfortourists.com/Hood.aspx/Seattle/FirstHillPikePine) turn into a Bro & Woo Girl scene, so I would explore other areas of Capitol Hill on those nights, like [12th](http://www.capitolhillseattle.com/tag/12th-ave/) or [15th](http://www.capitolhillseattle.com/tag/15th-ave/) which is more mellow.
+However Capitol Hill is going through [a bit of a transition](http://www.thestranger.com/features/feature/2015/02/27/21792732/the-woo-girls-street-artist-is-not-hiding-from-anyone) right now. It can appear a bit grungy and off putting to out of towners, but it is worth a visit. Most Friday & Saturday nights on [Pike & Pine](http://www.notfortourists.com/Hood.aspx/Seattle/FirstHillPikePine) turn into a Bro & Woo Girl scene, so I would explore other areas of Capitol Hill on those nights if you are looking for something more low key, like [12th](http://www.capitolhillseattle.com/tag/12th-ave/) or [15th](http://www.capitolhillseattle.com/tag/15th-ave/) which is more mellow.
 
-* Just explore [Pike & Pine](http://www.notfortourists.com/Hood.aspx/Seattle/FirstHillPikePine) East of I-5. Ton’s of cool shops and food
+During the day it is pretty mellow. There are lots of great shops, cafes and restaurants to explore. Just explore [Pike & Pine](http://www.notfortourists.com/Hood.aspx/Seattle/FirstHillPikePine) East of I-5. 
+
+### Melrose Ave (between Pike & Pine)
 * [Starbucks’ new Willy Wonka of Coffee](https://news.starbucks.com/news/starbucks-reserve-roastery-and-tasting-room)
+
+### Broadway (between Pike & Denny)
 * [Broadway](https://en.wikipedia.org/wiki/Posse_on_Broadway) (runs North-South) has a lot more.
+* [Jimi Hendrix Statue](http://www.roadsideamerica.com/tip/1417) (Broadway & Pine) stop by and take a photo with legendary Seattle guitarist Jimi Hendrix. The building he is front used to the world headquarters of elevator music company [Muzak](http://www.historylink.org/File/10072)
 * [Dick’s Drive-In](http://www.ddir.com) on Broadway (Seattle’s In-n-Out) and worth a stop for a Dick's Deluxe.
+
+### 10th Ave (between Pike & Pine)
+* [Molly Moon's](http://www.mollymoon.com/locations/capitol-hill) Ice Cream is a big thing in Seattle, and Molly Moon's is one of Seattleites favorites. It isn't uncommon to see a line of about 20-30 people outside. And honestly it is worth the wait, regardless of how cold it may be outside.
+* [Elliott Bay Books](http://www.elliottbaybook.com) is one of Seattle's treasured places. It is a classic bookstore with creaky wood floors and hand written book reviews hanging from the shelfs. If you are a book lover, this is a must.
+
+### North Capitol Hill
 * [Volunteer Park](http://www.seattle.gov/parks/park_detail.asp?id=399)
 * [Bruce Lee’s grave](http://www.tripadvisor.com/Attraction_Review-g60878-d615595-Reviews-Bruce_Lee_Grave_Site-Seattle_Washington.html)
 
