@@ -30,7 +30,7 @@ I recommend before exploring Pioneer Square, that you go to MOHAI on South Lake 
 
 This is a must for anyone visiting Seattle. It is packed with tourists, but it is the best place in Seattle to purchase fresh fish, produce etc. I try and shop there at least once a month. This market is a hub for some of the best seafood in the world. And a great place to get smoked salmon to take home if that is your thing.
 
-[Take time to explore.](http://www.pikeplacemarket.org/plan-your-visit) There are two markets and a ton of small shops on the lower levels. There are plenty of sit down restaurants, nearly all of them are good. Of you can get some great street food like [Piroshky Piroshky](https://piroshkybakery.com and take it with you.
+[Take time to explore.](http://www.pikeplacemarket.org/plan-your-visit) There are two markets and a ton of small shops on the lower levels. There are plenty of sit down restaurants, nearly all of them are good. Of you can get some great street food like [Piroshky Piroshky](https://piroshkybakery.com) and take it with you.
 
 The Market is located on a “woonerf” or living street, meaning that cars share the road with pedestrians. Many tourists stick to the sidewalks, which can be crowded and move very very slowly. My advice is don’t be afraid to walk in the street, or zig zag back and forth across the street in order to get around. It allows you to see a lot more and avoid the crowds. 
 
