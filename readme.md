@@ -71,10 +71,10 @@ Across the street from EMP is the [Ride the Duck}(http://www.ridetheducksofseatt
 This is Seattle’s newest “neighborhood” and by neighborhood I mean Paul Allen’s real estate experiment that is 80% Amazon. Seattleites mostly complain about it, but there are some good finds here and worth a visit.
 
 * [South Lake Union Park](http://www.seattle.gov/parks/park_detail.asp?ID=344) is one of the best in the city.
-* [MOHAI](http://www.mohai.org) or the Musuem of History & Industry is fantastic. One of the better musuems in Seattle. Like I mentioned before, starting your trip to Seattle here is a good idea. They have some really excellent interactive exhibits that teach you about Seattle (don't miss the Great Seattle Fire musical).
+* [MOHAI](http://www.mohai.org) or the Museum of History & Industry is fantastic. One of the better museums in Seattle. Like I mentioned before, starting your trip to Seattle here is a good idea. They have some really excellent interactive exhibits that teach you about Seattle (don't miss the Great Seattle Fire musical).
 * Boats are a big part of Seattle. And I recommend going to the [The Wooden Boat Center](http://cwb.org). Its free and you get to go on board a lot of different types of boats. On Sundays they do a [free sail](https://cwb.org/events/cast-off/) around Lake Union. You need to get there early to sign up on nice days.
 * On Sundays you can take the [Sunday Ice Cream Cruise](http://www.seattleferryservice.com), which is a 45 minute tour around Lake Union (ironically ice cream is not included in your $12 ticket price but available on board). Departs on the hour 11am to 3pm every Sunday rain or shine. Board right next to MoHAI.
-* There is a good mix of casual and fine dining resturants on the lake, many of them with water views. [McCormick & Schmicks](http://www.mccormickandschmicks.com/locations/seattle-washington/seattle-washington/westlakeavenue.aspx) is one of my favorite places for happy hour – which is also prime time for the float planes landing and taking off. 
+* There is a good mix of casual and fine dining restaurants on the lake, many of them with water views. [McCormick & Schmicks](http://www.mccormickandschmicks.com/locations/seattle-washington/seattle-washington/westlakeavenue.aspx) is one of my favorite places for happy hour – which is also prime time for the float planes landing and taking off. 
 * In fact I would highly recommend taking a [float plane tour over Seattle](http://www.seattleseaplanes.com). It is about $100 per person and pretty amazing way to see the entire area. 
 * Or if you aren’t on a budget, take a float plane up to the San Juan islands and stay overnight and fly back the next day. They have a ton of packages at [Kenmore Air](http://www.kenmoreair.com).
 * Also on the pricey side, but **super** fun is you can rent an [Electric Duffy Boat](http://theelectricboatco.com) and just tool around Lake Union – this is one of my favorite summer time activities. I recommend the evening. It is also the best way to see all of the house boats.
@@ -92,7 +92,12 @@ However Capitol Hill is going through [a bit of a transition](http://www.thestra
 During the day it is pretty mellow. There are lots of great shops, cafes and restaurants to explore. Just explore [Pike & Pine](http://www.notfortourists.com/Hood.aspx/Seattle/FirstHillPikePine) East of I-5. 
 
 ### Melrose Ave (between Pike & Pine)
-* [Starbucks’ new Willy Wonka of Coffee](https://news.starbucks.com/news/starbucks-reserve-roastery-and-tasting-room)
+* [Starbucks’ new Willy Wonka of Coffee](https://news.starbucks.com/news/starbucks-reserve-roastery-and-tasting-room) this is Starbucks news experiment. It is a working Roaster where Starbucks roasts all of their Signature blends. You can stop by to watch them roast coffee from start to finish. Have a cup of Clover coffee (which is an awesome way of brewing unique to Starbucks). Get Nitro Cold Brew, which is more like a Guiness than coffee. Plus they have a cool little shop of local products.
+* [Serious Pie](http://www.seriouspieseattle.com) is inside Starbucks, but other locations around Seattle. One of our beloved restaurant owners Tom Douglas method of making pizza. It is pretty damn good. And if you want eat like a true Northwesterner, order the Kale Salad.
+* [Melrose Market](http://www.melrosemarketseattle.com)
+* [Mamnoon](http://www.mamnoonrestaurant.com) – excellent middle eastern food
+* Terra Plata – delicious place to get farm to table food with a spanish flavor, and every Monday night is Paella night!
+* McMenamins Six Arms – McMenamins is more of a Portland thing than a Seattle thing. But if you are looking for Northwest microbrewpub experience, this is a good stop. It's family friendly too.
 
 ### Broadway (between Pike & Denny)
 * [Broadway](https://en.wikipedia.org/wiki/Posse_on_Broadway) (runs North-South) has a lot more.
