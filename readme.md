@@ -64,6 +64,8 @@ Seattle isn't really known internationally for our architecture, but we have som
 
 There is a [Monorail](http://www.seattlemonorail.com) that connects Seattle Center to Downtown's Retail Core (it even goes through the EMP). It is very short ride and offers nice elevated views of Belltown and South Lake Union.
 
+Across the street from EMP is the [Ride the Duck}(http://www.ridetheducksofseattle.com) tour, which is an land and water tour of Seattle. It isn't the most popular company in Seattle, but tourists tend to like it. Most of the things you will drive on the Duck tour is listed on this page. But if you want the full Seattle tourist experience, maybe check this out. 
+
 # South Lake Union
 
 This is Seattle’s newest “neighborhood” and by neighborhood I mean Paul Allen’s real estate experiment that is 80% Amazon. Seattleites mostly complain about it, but there are some good finds here and worth a visit.
